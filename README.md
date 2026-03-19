@@ -41,3 +41,5 @@ to restrict access to AI tools on their network.
 2. Paste the URL below
 3. Assign to your desired group
 4. Run `pihole -g` to update gravity
+
+5. https://raw.githubusercontent.com/mortis2600/ai-blocklist/refs/heads/main/blocklist.txt
