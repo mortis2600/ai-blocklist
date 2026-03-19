@@ -1,0 +1,35 @@
+! Title: AI & Image Generation Blocklist
+! Description: Blocks AI chatbots and image generation sites
+! Homepage: https://github.com/YOURUSERNAME/YOURREPO
+! License: MIT
+! Expires: 7 days
+! Last modified: 2026-03-19
+
+||chatgpt.com^
+||chat.openai.com^
+||claude.ai^
+||gemini.google.com^
+||copilot.microsoft.com^
+||perplexity.ai^
+||character.ai^
+||grok.com^
+||deepseek.com^
+||meta.ai^
+||kimi.ai^
+||moonshot.cn^
+||hailuo.ai^
+||mistral.ai^
+||cohere.com^
+||poe.com^
+||you.com^
+||midjourney.com^
+||imagine.art^
+||nightcafe.studio^
+||stablediffusionweb.com^
+||dreamstudio.ai^
+||playground.ai^
+||leonardo.ai^
+||ideogram.ai^
+||firefly.adobe.com^
+||tensor.art^
+||civitai.com^
