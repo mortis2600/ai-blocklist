@@ -37,7 +37,7 @@ to restrict access to AI tools on their network.
 
 ## How to add to Pi-hole
 
-1. Go to **Pi-hole Admin → Adlists → Add**
+1. Go to **Pi-hole Admin → Lists → Paste list URL below → Click Add Blocklist 
 2. Paste the URL below
 3. Assign to your desired group
 4. Run `pihole -g` to update gravity
